@@ -290,11 +290,11 @@ img {
     background-position: 100% 50%;
   }
 }
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 365px) {
   .name {
     font-weight: bold;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 17px;
     margin-top: 16px;
   }
 }
